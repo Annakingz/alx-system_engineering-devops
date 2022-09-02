@@ -1,4 +1,5 @@
-Task 17. Tree
+0 string SCHOOL School data
+!:mime School
 
 
 
